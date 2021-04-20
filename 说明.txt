@@ -1,8 +1,0 @@
-1.环境为：JDK1.7.x, Tomcat7.x, MyEclipse(UTF-8编码)
-2.软件：springmvc, spring, jdbc, neo4j3.x, jquery-easyui(修改过源码), echarts(修改过源码),chosen(修改过源码)
-2.数据库: 用户neo4j, 密码root
-3.创建系统用户： CREATE (na:User{username:'admin',name:'管理员',role:'1',password:'21232f297a57a5a743894a0e4a801fc3'} return na
-4.访问路径：http://localhost:8080/movie_graph/
-5.系统登录: 用户admin, 密码admin
-6.导入数据：先登录后点击 导航菜单>>>数据导入>>>导入>>>下载模板>>>浏览>>>批量导入(会清空数据库)  
-7.数据为假数据，业务场景也不适用，只为学习而用请勿传播，谢谢！！！
